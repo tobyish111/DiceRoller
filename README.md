@@ -24,13 +24,13 @@ We value your privacy. Dice Roller:
 - Operates 100% on-device  
 - Does not use any internet connectivity, analytics, or third-party trackers  
 
-👉 [View the full Privacy Policy]([https://tobyish111.github.io/DiceRoller/])
+👉 [View the full Privacy Policy](https://tobyish111.github.io/DiceRoller)
 
 ---
 
 ## 🐛 Issues & Feedback
 
-Found a bug or have an idea? Create an [Issue](https://github.com/yourusername/dice-roller/issues) or open a pull request.
+Found a bug or have an idea? Create an [Issue](https://github.com/tobyish111/DiceRoller/issues) or open a pull request.
 
 We welcome feedback and feature requests to keep making Dice Roller better for the community!
 
