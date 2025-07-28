@@ -24,7 +24,7 @@ We value your privacy. Dice Roller:
 - Operates 100% on-device  
 - Does not use any internet connectivity, analytics, or third-party trackers  
 
-👉 [View the full Privacy Policy](https://yourdomain.com/privacy-policy.html)
+👉 [View the full Privacy Policy]([https://tobyish111.github.io/DiceRoller/])
 
 ---
 
