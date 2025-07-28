@@ -30,7 +30,7 @@ We value your privacy. Dice Roller:
 
 ## 🐛 Issues & Feedback
 
-Found a bug or have an idea? Create an [Issue](https://github.com/yourusername/dice-roller/issues) or open a pull request.
+Found a bug or have an idea? Create an [Issue](https://github.com/tobyish111/dice-roller/issues) or open a pull request.
 
 We welcome feedback and feature requests to keep making Dice Roller better for the community!
 
