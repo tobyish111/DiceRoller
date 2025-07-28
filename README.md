@@ -42,16 +42,3 @@ We welcome feedback and feature requests to keep making Dice Roller better for t
 
 ---
 
-## 📸 Screenshots
-
-<p float="left">
-  <img src="screenshots/screenshot1.jpeg" width="30%" />
-  <img src="screenshots/screenshot2.jpeg" width="30%" />
-  <img src="screenshots/screenshot3.jpeg" width="30%" />
-</p>
-
----
-
-## 💬 Contact
-
-Have questions? Reach out at [youremail@example.com](mailto:youremail@example.com)
